@@ -9,7 +9,8 @@ Sou formada em Direito, com pós-graduação em Direito Civil com ênfase em Pro
 - Git e GitHub  
 
 ## Meus projetos:  
-- Atualmente não tenho projetos consolidados, mas estou em fase de aprendizado e construção. 
+- Atualmente não tenho projetos consolidados, mas estou em fase de aprendizado e construção.
+- Link da atividade que desenvolvi para simular um projeto: https://github.com/PBdeC/Calculadora-Canecas-projeto-Cruzeiro-do-sul-/tree/main
 
 ## Contato:  
 - LinkedIn: [https://www.linkedin.com/in/paloma-barbosa-de-carvalho-a52b8840](https://www.linkedin.com/in/paloma-barbosa-de-carvalho-a52b8840)  
